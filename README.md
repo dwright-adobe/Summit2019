@@ -1,58 +1,17 @@
 # Integrating Experience Fragments with Adobe Target (L726)
 ![](media/Experience_League.png)
 # Table of Contents
-[Lab Overview](#lab-overview)
+* [Lab Overview](#lab-overview)
 
-[Scope](#scope)
-
-[Business Problem](#business-problem)
-
-[Lesson 1: AEM - Build Experience Fragments in AEM
+* [Lesson 1: AEM - Build Experience Fragments in AEM
 3](#lesson-1-aem---build-experience-fragments-in-aem)
 
-[Definition](#definition)
+* [Lesson 2: Target - Create an Auto-target activity using XFs](#lesson-2-target-create-an-auto-target-activity-using-xfs)
 
-[Objectives](#objectives)
-
-[Step 1: Go to the Experience Fragment menu](#step-1-go-to-the-experience-fragment-menu)
-
-[Step 2: Create a new Folder](#step-2-create-a-new-folder)
-
-[Step 3: Examine and Add the Target cloud configuration](#step-3-examine-and-add-the-target-cloud-configuration)
-
-[Step 4: Create Experience Fragments](#step-4-create-experience-fragments)
-
-[Step 4: Author the Experience Fragment](#step-4-author-the-experience-fragment)
-
-[Optional exercise---create Previews](#optional-exercisecreate-previews)
-
-[Step 4: Share the Experience Fragments](#step-4-share-the-experience-fragments)
-
-[Lesson 2: Target -- Create an Auto-target activity using XFs](#lesson-2-target-create-an-auto-target-activity-using-xfs)
-
-[Objectives](#objectives-1)
-
-[Step 1: Log into the Experience Cloud](#step-1-log-into-the-experience-cloud)
-
-[Step 2: Confirm your XFs have arrived in Target](#step-2-confirm-your-xfs-have-arrived-in-target)
-
-[Step 3: Build an Auto-Target Activity using your XFs](#step-3-build-an-auto-target-activity-using-your-xfs)
-
-[Step 4: Validate your activity](#step-4-validate-your-activity)
-
-[Lesson 3: AEM - Build a more advanced Experience Fragment with building
+* [Lesson 3: AEM - Build a more advanced Experience Fragment with building
 blocks and components](#lesson-3-aem---build-a-more-advanced-experience-fragment-with-building-blocks-and-components)
 
-[Scenario](#scenario)
-
-[Objectives](#objectives-2)
-
-[Step 1: Create a Building Block in our Experience Fragment master
-variation](#step-1-create-a-building-block-in-our-experience-fragment-master-variation)
-
-[Step 2: Use the Building Block in our variations](#step-2-use-the-building-block-in-our-variations)
-
-[Exercise 4 (Optional): Convert existing Page content into XFs](#exercise-4-optional-convert-existing-page-content-into-xfs)
+* [Lesson 4 (Optional): Convert existing Page content into XFs](#exercise-4-optional-convert-existing-page-content-into-xfs)
 
 Lab Overview 
 =============
@@ -223,8 +182,7 @@ Step 4: Author the Experience Fragment
     ![](media/image019.png)
 
 3.  Add the hero
-    image:![](media/image020.png){width="6.788996062992126in"
-    height="3.745736001749781in"}
+    image:![](media/image020.png)
 
 4.  Add copy and a link to the hero:\
     ![](media/image021.png)
@@ -276,7 +234,7 @@ activated, if not it will remind you first.
 4.  You will get a confirmation when the XF is exported:\
     ![](media/image031.png)
 
-Lesson 2: Target -- Create an Auto-target activity using XFs
+Lesson 2: Target - Create an Auto-target activity using XFs
 ============================================================
 
 Objectives
@@ -352,8 +310,7 @@ Step 3: Build an Auto-Target Activity using your XFs
     **If you are using Firefox,** you essentially do the same thing, but
     the options are to the left of the address bar:\
     ![](media/image040.png)
-    ![](media/image041.png){width="2.4325656167979in"
-    height="2.6610575240594927in"}
+    ![](media/image041.png)
 
 4.  The homepage should now load in the Visual Experience Composer
     (VEC). **If not, get a TA's attention.**
@@ -384,8 +341,7 @@ Step 3: Build an Auto-Target Activity using your XFs
 10. You will now see your XF preview in the VEC. Rename the experience
     to match your creative and then click to "Add Experience" (you can
     close the dialog about "Manually edited JavaScript":\
-    ![](media/image049.png){width="7.396199693788277in"
-    height="3.817308617672791in"}
+    ![](media/image049.png)
 
 11. Repeat the steps 7-10 above to create experiences for each one of
     your XFs and then click "Next":\
@@ -513,7 +469,7 @@ practices.
 7.  Reload the page where you have entered the activity (http://
     <http://localhost:4503/content/we-retail/us/en.html?labuser=YOURNUMBER>)
 
-Exercise 4 (Optional): Convert existing Page content into XFs
+Lesson 4 (Optional): Convert existing Page content into XFs
 =============================================================
 
 You don't even have to start from scratch to create Experience
